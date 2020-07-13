@@ -1,9 +1,20 @@
 0x2 Initial Setup
 
 **DISCLAIMER**
-**Do not try this in office systems**
+**Do not try this in office systems, This conntents are shared for learning purpose only**
 
 ----
+
+# TryHackMe
+
+1. Login to Tryhackme portal - https://tryhackme.com/signup
+2. Go to Access - https://tryhackme.com/access
+3. Download my configuration file (ovpn)
+4. Connect to Tryhackme network using openvpn and your ovpn file
+5. Go to Win Priv Room and click on Join room - https://tryhackme.com/room/windows10privesc
+6. Deploy Machine and notedown the IP of target box
+7. ping the target and take the rdp of server as mentioned in notes
+
 
 # Create reverse.exe using msfvenom
 ```console
